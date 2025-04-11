@@ -1,0 +1,5 @@
+[project]
+name = "music-geshizhuanhuan"
+version = "0.1.0"
+description = "全平台加密音乐格式转换器（网页版+命令行）：网易云 NCM / QQ音乐 QMC / 酷狗 KGM / 酷我 KWM 解密与转码，代码从零自研，MIT 协议"
+requires-python = ">=3.10"
