@@ -10,3 +10,4 @@ coverage/
 *.tmp
 .cache/
 tmp/
+.idea/
